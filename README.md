@@ -12,8 +12,7 @@ You can create ToDo's , change those states(if are cheked or not), view all ToDo
 ## Available Scripts
 
 First you need to run:
-### `yarn add react-router-dom`
-### `yarn add styled-components`
+### `yarn install`
 
 And now you can run the server:
 ### `yarn start`
